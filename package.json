@@ -1,0 +1,18 @@
+{
+  "name": "otaku-small-function",
+  "version": "1.0.0",
+  "description": "small function that support otaku ai ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "small-function"
+  ],
+  "author": "clement akhimien",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^4.0.0",
+    "@google/generative-ai": "^0.24.1"
+  }
+}
