@@ -4,7 +4,11 @@
   "description": "small function that support otaku ai ",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.10.0"
   },
   "keywords": [
     "small-function"
