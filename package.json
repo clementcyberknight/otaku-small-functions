@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@google-cloud/functions-framework": "^4.0.0",
-    "@google/generative-ai": "^0.24.1"
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.1.0"
   }
 }
