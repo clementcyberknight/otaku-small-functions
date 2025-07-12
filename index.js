@@ -30,6 +30,7 @@ functions.http("generateTitle", async (req, res) => {
     Generate a concise, 2-5 word title for the following user conversation starter.
     Do not add any punctuation like quotes or periods to the title itself.
     The title should be suitable for a chat history list.
+    make user it not generic like generate title, but specific to the content of the message like the token name or what the conversation is about.
 
     User Prompt: "Explain how AI works"
     Title: How AI Works
